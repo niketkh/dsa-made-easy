@@ -7,14 +7,14 @@
 
 ### Data Structures
 
-* Linked Lists
-* Stacks
-* Queues
-* Trees
-* Priority Queue and Heaps
-* Disjoint Sets 
-* Hash Tables
-* Symbol Tables
+* [Linked Lists](linked-lists/linked-lists.md)
+* [Stacks](stacks/stacks.md)
+* [Queues](queues/queues.md)
+* [Trees](trees/trees.md)
+* [Priority Queue and Heaps](priority-queues-and-heaps/priority-queues-and-heaps.md)
+* [Disjoint Sets](disjoint-sets/disjoint-sets.md)
+* [Hash Tables](hash-tables/hash-tables.md)
+* [Symbol Tables](symbol-tables/symbol-tables.md)
 
 ### Algorithms
 
